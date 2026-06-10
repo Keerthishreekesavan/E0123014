@@ -1,0 +1,16 @@
+{
+  "depots": [
+    {
+      "ID": 3,
+      "MechanicHours": 188
+    },
+    {
+      "ID": 4,
+      "MechanicHours": 97
+    },
+    {
+      "ID": 5,
+      "MechanicHours": 164
+    }
+  ]
+}
