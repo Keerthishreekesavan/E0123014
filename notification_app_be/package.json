@@ -8,7 +8,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": ["notification", "backend", "express", "nodejs"],
-  "author": "Abirami (e0123011)",
+  "author": "Keerthishree K (e0123014)",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.0",
